@@ -1,3 +1,6 @@
+
+Certainly! Here's the updated text with dark colors for headings and highlighted keywords:
+
 Getting Started with Create React App
 
 This project was initialized using Create React App.
@@ -14,5 +17,3 @@ Runs the test suite in interactive watch mode. Check the test documentation for 
 
 npm run build
 Creates an optimized production build of the app in the build folder. The build is minified and includes hashed filenames for better performance. Your app is now ready for deployment!
-
-Refer to the deployment guide for additional information.
