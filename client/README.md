@@ -1,34 +1,18 @@
-# Getting Started with Create React App
+Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was initialized using Create React App.
 
-## Available Scripts
+Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can use the following commands:
 
-### `npm start`
+npm start
+Launches the app in development mode. Visit http://localhost:3000 in your browser to view it. The page will automatically reload when you make changes, and any linting issues will appear in the console.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+npm test
+Runs the test suite in interactive watch mode. Check the test documentation for more details on running tests.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+npm run build
+Creates an optimized production build of the app in the build folder. The build is minified and includes hashed filenames for better performance. Your app is now ready for deployment!
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-
-
-
+Refer to the deployment guide for additional information.
